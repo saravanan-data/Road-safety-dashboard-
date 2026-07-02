@@ -1,2 +1,3 @@
 Power BI dashboard built using NYC road accident data to analyze traffic collision patterns and road safety risks. The project focuses on identifying accident trends over time, major contributing causes, vehicle types involved, and the impact on pedestrians and cyclists. It provides key insights through KPIs and interactive visualizations to support data-driven decision-making for improving road safety.
+
 Tools Used: Power BI, Power Query
